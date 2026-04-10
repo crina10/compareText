@@ -85,3 +85,11 @@ button {
     line-height: 1.5;
 }
 
+.word-ok {
+    color: green;
+}
+
+.word-diff {
+    color: red;
+    font-weight: bold;
+}
